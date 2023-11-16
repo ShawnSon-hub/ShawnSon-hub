@@ -11,7 +11,12 @@
 - ✉️ [Gmail](mailto:your-email@gmail.com)
 - 🏡 [Notion](https://www.notion.so/sonminhyoek/Hi-I-m-Shawn-son-fc08fd9bd1704a0c8bc13a66d9b83d96?pvs=4)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+	
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/](https://www.linkedin.com/in/your-linkedin))
 
+[![Notion Badge](https://www.notion.so/sonminhyoek/Hi-I-m-Shawn-son-fc08fd9bd1704a0c8bc13a66d9b83d96?pvs=4)
+
+[![Gmail Badge](mailto:your-email@gmail.com)
 
 
 
