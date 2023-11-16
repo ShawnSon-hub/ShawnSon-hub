@@ -1,12 +1,12 @@
 # Hi, I'm Shawn Son! 
 
-👀 I'm interested in data and extracting insights from it.
-🇰🇷 I'm currently based in Seoul, South Korea, and my hometown is Mokpo, South Korea.
-🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
-✨ I would like to become a cool data person.
-🌏 I believe inspiration is everywhere.
+👀 I'm interested in data and extracting insights from it. \n
+🇰🇷 I'm currently based in Seoul, South Korea, and my hometown is Mokpo, South Korea. \n
+🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021). \n
+✨ I would like to become a cool data person. \n
+🌏 I believe inspiration is everywhere. \n
 
-## Contact
+# Contact
 
 - ✉️ [Gmail](mailto:your-email@gmail.com)
 - 🏡 [Notion](https://www.notion.so/sonminhyoek/Hi-I-m-Shawn-son-fc08fd9bd1704a0c8bc13a66d9b83d96?pvs=4)
