@@ -1,4 +1,4 @@
-## Research Student at Industrial Aritificial Intelligence LAB 
+## Undergraduate Researcher at Industrial Aritificial Intelligence LAB 
 - Machine Learning, Deep Learning
 - Fault Prediction in Manufactoring
 - Knowledge distillation, Calibration
